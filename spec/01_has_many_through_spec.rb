@@ -1,4 +1,5 @@
 require "spec_helper"
+require "pry"
 
 describe "Basic class structures" do
   
@@ -195,4 +196,5 @@ describe "Object relationships" do
       end
     end
   end
+  # binding.pry
 end
